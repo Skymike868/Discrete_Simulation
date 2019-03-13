@@ -1,3 +1,7 @@
+_author__ = "Michael Bristol"
+__copyright__ = "Copyright 2019, Modelling and Simulation"
+__credits__ = ["Michael Bristol",
+                    "Azel Daniel"]
 import numpy as np
 import matplotlib.pylab as pylab
 from PartB.FutureEventList import FutureEventList

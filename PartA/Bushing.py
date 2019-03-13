@@ -1,3 +1,6 @@
+author__ = "Michael Bristol"
+__copyright__ = "Copyright 2019, Modelling and Simulation"
+__credits__ = ["Michael Bristol"]
 #Shaft radius 1.00cm
 #Distribution radii 1.00cm mean
 #Standard Distribution .002cm

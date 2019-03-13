@@ -1,3 +1,7 @@
+_author__ = "Michael Bristol"
+__copyright__ = "Copyright 2019, Modelling and Simulation"
+__credits__ = ["Michael Bristol"]
+import numpy as np
 # 1 billion bushing shafts
 # each failure costs 5000
 # reducing sd by 0.0005 costs 100,000
